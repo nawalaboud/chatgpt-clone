@@ -62,7 +62,7 @@ To run tests:
 
 2. TypeScript:
 
-    Custom types like MessageData and MessageInputProps ensure type safety.
+    Custom types like MessageData ensure type safety.
 
 3. useState:
 
